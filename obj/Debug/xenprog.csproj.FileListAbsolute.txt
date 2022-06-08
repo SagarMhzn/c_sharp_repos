@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\xenprog\xenprog\bin\Debug\xenprog.exe.config
+C:\Users\Dell\Desktop\xenprog\xenprog\bin\Debug\xenprog.exe
+C:\Users\Dell\Desktop\xenprog\xenprog\bin\Debug\xenprog.pdb
+C:\Users\Dell\Desktop\xenprog\xenprog\obj\Debug\xenprog.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\xenprog\xenprog\obj\Debug\xenprog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\xenprog\xenprog\obj\Debug\xenprog.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\xenprog\xenprog\obj\Debug\xenprog.exe
+C:\Users\Dell\Desktop\xenprog\xenprog\obj\Debug\xenprog.pdb
