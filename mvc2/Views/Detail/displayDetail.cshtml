@@ -1,7 +1,4 @@
-﻿
-@{
-    Layout = null;
-}
+﻿@model mvc2.Models.subject
 
 <!DOCTYPE html>
 
@@ -11,8 +8,10 @@
     <title>displayDetail</title>
 </head>
 <body>
-    <div> 
+    <div>
         <h1 align="center">this content is from a view</h1>
+        <h2>id is @Model.Id</h2>
+        <h2>subject name is @Model.subjectName</h2>
     </div>
 </body>
 </html>
